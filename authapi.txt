@@ -1,0 +1,7 @@
+
+3.Create an api of login and registration with JWT authentication.
+
+register api=>     http://127.0.0.1:8000/api/auth/signup
+
+
+login api=>     http://127.0.0.1:8000/api/auth/signin
